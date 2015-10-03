@@ -1,2 +1,2 @@
 # GitHubProject2
-This my second project
+GithubProject is a repository
